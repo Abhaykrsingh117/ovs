@@ -1,0 +1,28 @@
+2. (Clone)choose new repo
+give name of new repo
+url of repo and git clone url
+3.(Fork) search the account and fork the rep
+git clone url
+4.(First commit) git clone url
+do some changes in file (optional)
+cd path/to/repo (ex-BrocOde)
+git add .
+git commit -m "First change"
+to check the history- git log
+5.(push C to R)
+procedure will be same as 4 so apply all step after that
+git push origin (branch name as shown in git bash) ex-main,Boss01
+6.(Pull C to R) same as 4 and 5 afetr the git push origin step
+after this we have to change file inside code in github only then it will not show changes in notepad so do the next step
+git pull origin Boss01 or main as per git bush
+7.(Cre Man) 
+cd Boss01
+git add .
+git commit -m "check cre"
+after doing this we have to delete it from settings
+git push origin Boss01
+8.new issue
+for creating it go to main person accout then create issue fill all detail and after that created issue
+9.pull request
+if teacher ask about code then you have to do all the proce of 7 
+otherwise you have to pull request from maamPro only fill all detail and then pull the request succesfully
